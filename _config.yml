@@ -1,4 +1,3 @@
 theme: jekyll-theme-leap-day
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-permalink: /competitive-programming/blog/:year/:month/:day/:title
