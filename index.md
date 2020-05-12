@@ -3,8 +3,6 @@ layout: default
 title: Hank Quinlan, Horrible Cop
 ---
 
-# Competitive Programming @ UW Bothell
-
 ## What is competitive programming?
 
 Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to write computer programs capable of solving a set of logical or mathematical problems. Judging is based mostly upon number of problems solved and time spent for writing successful solutions, but may also include other factors (quality of output produced, execution time, program size, etc.)
