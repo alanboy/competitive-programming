@@ -11,7 +11,7 @@ Competitive programming is recognized and supported by several multinational sof
 
 ## Who are we?
 
-We are a bunch of ACM officers (and volunteers) interested in spreading the love of algorithmic solving to other students in UW Bothell.
+We are ACM officers at University of Washington Bothell (and volunteers) interested in spreading the love of algorithmic solving to other students in UW Bothell.
 
 ## Upcoming Events
 
