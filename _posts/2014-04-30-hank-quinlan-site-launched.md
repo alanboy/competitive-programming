@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Competitive Programming: Round 3"
+date: 2020-05-29
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Competitive Programming ROUND 2 starts on **Friday, May 29 from 5:30-7:30PM**
+[Click here](bit.ly/UWBcomp) to get the Zoom link and contest link.
+
+If you are new to the contest, we also have HackerRank tutorials.
+
+Join us to have a better understanding of this intellectual e-Sport and an opportunity to improve your coding skills. You will race to solve interesting algorithmic problems as a team or individually in 1.5 hours, followed by a short discussion on Zoom.
