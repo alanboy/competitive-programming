@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Competitive Programming: Round 3"
+title: "Upcoming Contest"
 date: 2020-05-17
 ---
 Competitive Programming ROUND 2 starts on **Friday, May 29 from 5:30-7:30PM**. [<span style="color: blue">Click here</span>](http://bit.ly/UWBcomp) to get the Zoom link and contest link.
