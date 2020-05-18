@@ -15,7 +15,7 @@ We are ACM officers at University of Washington Bothell (and volunteers) interes
 
 ## Upcoming Events
 
-You can find list of events held this quarter [here](/events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
+You can find list of events held this quarter [<span style = "color:blue">here</span>](/events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
 
 <ul>
   {% for post in site.posts %}
