@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UWB CP
+title: About
 ---
 
 ## What is competitive programming?
