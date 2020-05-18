@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: UWBCP
 ---
 
 ## Who are we?

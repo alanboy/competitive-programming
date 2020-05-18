@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: UWBCP
 ---
 
 ## What is competitive programming?
