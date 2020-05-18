@@ -5,7 +5,7 @@ title: Events
 
 # Events
 
-REGISTER for the events [http://bit.ly/UWBcomp](http://bit.ly/UWBcomp). Other questions, contact us at [uwbacm@gmail.com](uwbacm@gmail.com)
+**REGISTER** for the events [http://bit.ly/UWBcomp](http://bit.ly/UWBcomp). Other questions, contact us at [uwbacm@gmail.com](uwbacm@gmail.com)
 
 ![Competitive Programming '20 Spring Schedule](./img/spr20events.png)
 
