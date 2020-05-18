@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 name: round 3
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
