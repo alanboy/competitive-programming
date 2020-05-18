@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Events
+title: UWBCP
 ---
 
 # Events
