@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contacts
+title: UWBCP
 ---
 
 ## Who are we?
