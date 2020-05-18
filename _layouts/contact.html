@@ -1,0 +1,12 @@
+---
+layout: default
+title: Contact
+---
+    <h1>{{ page.title }}</h1>
+    <ul class="contact">
+
+      {% for post in site.posts %}
+        <li><span>{{ contact.date | date_to_string }}</span>
+        <a href="{{ contact.url }}" title="{{ contact.title }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
