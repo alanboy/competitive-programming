@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring Contest: Round 3"
-date: 2020-05-17
+date: 2020-05-18
 ---
 Competitive Programming ROUND 3 starts on **Friday, May 29 from 5:30-7:30PM**. [<span style="color: blue">Click here</span>](http://bit.ly/UWBcomp) to get the Zoom link and contest link.
 
