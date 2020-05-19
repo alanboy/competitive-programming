@@ -13,10 +13,7 @@ Competitive programming is recognized and supported by several multinational sof
 
 You can find list of events held this quarter [<span style = "color:blue">here</span>](/events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
 
-<ul>
   {% for post in site.posts %}
-    <li>
       <a href="{{post.url}}">{{post.title}}</a>
-    </li>
+      <hr>
   {% endfor %}
-</ul>
