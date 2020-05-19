@@ -3,4 +3,5 @@ name: UWB ACM
 markdown: kramdown
 
 posts:
+    url: /
     output: true
