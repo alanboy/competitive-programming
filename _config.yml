@@ -2,6 +2,5 @@
 name: UWB ACM
 markdown: kramdown
 
-collections:
-  posts:
+posts:
     output: true
