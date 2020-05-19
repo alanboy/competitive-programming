@@ -13,10 +13,12 @@ Competitive programming is recognized and supported by several multinational sof
 
 You can find list of events held this quarter [<span style = "color:blue">here</span>](/events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{post.url}}" style="color: blue">{{post.title}}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="http://mduw.github.io{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://mduw.github.io{{ post.id }}</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+{% endfor %}
