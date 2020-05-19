@@ -3,6 +3,6 @@ layout: default
 title: UWBCP
 ---
 
-## This is post page
+## Post
 
 TBA TBA
