@@ -3,4 +3,5 @@ name: UWB ACM
 markdown: kramdown
 
 posts:
-  - url: post.html
+  permalink: "/news/:year/:month/:day/:title/"
+  output: true
