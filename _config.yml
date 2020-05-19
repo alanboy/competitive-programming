@@ -2,6 +2,6 @@
 name: UWB ACM
 markdown: kramdown
 
-posts:
-  permalink: "/year/:month/:day/:title/"
-  output: true
+collections:
+  posts:
+    output: true
