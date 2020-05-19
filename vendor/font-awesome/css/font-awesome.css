@@ -2197,6 +2197,7 @@
   overflow: visible;
   clip: auto;
 }
-.fa-discord:before {
-  content: "\f392";
+.icon-discord:before {
+  content: "\2200";
+  color: #7289da;
 }
