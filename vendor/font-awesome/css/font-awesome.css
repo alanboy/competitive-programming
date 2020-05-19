@@ -2197,7 +2197,3 @@
   overflow: visible;
   clip: auto;
 }
-.icon-discord:before {
-  content: "\2200";
-  color: #7289da;
-}
