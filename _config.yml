@@ -3,5 +3,4 @@ name: UWB ACM
 markdown: kramdown
 
 posts:
-  - title: round 4
-  - url: 2020-05-19-round-4.md
+  - url: post.html
