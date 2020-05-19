@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
 
-<div class="post">
-  {{ content }}
-</div>
+    <meta http-equiv="refresh" content="0;url={{ page.external_url }}">
+  </head>
+  <body><!-- Google Analytics JavaScript -->
+      <p class="meta">{{ page.date | date_to_string }}</p>
+        {{ content }}
+  </body>
+</html>
