@@ -2,7 +2,7 @@ name: UWB ACM
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 # Build settings
-baseurl: /mduw # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /competitive-programming/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site

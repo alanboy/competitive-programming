@@ -11,4 +11,4 @@ Competitive programming is recognized and supported by several multinational sof
 
 ## Upcoming Events
 
-You can find list of events held this quarter [<span style = "color:blue">here</span>](/events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
+You can find list of events held this quarter [<span style = "color:blue">here</span>](events.md). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
