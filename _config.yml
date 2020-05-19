@@ -1,3 +1,24 @@
 name: UWB ACM
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+# Build settings
+baseurl: /mduw # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
