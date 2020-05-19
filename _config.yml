@@ -3,5 +3,5 @@ name: UWB ACM
 markdown: kramdown
 
 posts:
-  permalink: "/news/:year/:month/:day/:title/"
+  permalink: "/year/:month/:day/:title/"
   output: true
