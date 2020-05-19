@@ -15,5 +15,4 @@ You can find list of events held this quarter [<span style = "color:blue">here</
 
   {% for post in site.posts %}
       <a href="{{post.url}}">{{post.title}}</a>
-      <hr>
   {% endfor %}
