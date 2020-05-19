@@ -2197,3 +2197,6 @@
   overflow: visible;
   clip: auto;
 }
+.fa-discord:before {
+  content: "\f392";
+}
