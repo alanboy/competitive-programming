@@ -5,7 +5,6 @@ title: Posts
     <h1>{{ page.title }}</h1>
     <ul class="post">
       {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span>
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li href="{{ post.url }}">{{ post.title }}</li>
       {% endfor %}
     </ul>
