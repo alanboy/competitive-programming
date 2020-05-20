@@ -5,6 +5,7 @@ date: 2020-05-19 7:36:13
 background: '/img/posts/01.jpg'
 published: true
 categories: [Spring20, Announcement]
+url: /_posts/2020-05-19-round-3-announcement.md
 ---
 
 Hello,
