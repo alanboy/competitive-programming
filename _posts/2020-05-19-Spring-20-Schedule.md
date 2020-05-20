@@ -2,7 +2,7 @@
 layout: post
 title: "Spring 2020 Events"
 date: 2020-03-19 7:50:13
-background: '/img/posts/02.jpg'
+background: '/img/post-bg.jpg'
 categories: [Spring20, EventSchedule]
 ---
 

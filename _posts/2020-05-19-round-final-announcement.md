@@ -2,12 +2,11 @@
 layout: post
 title: "Final Contest Registration is OPEN!!"
 date: 2020-05-19 7:50:13
-background: '/img/posts/02.jpg'
+background: '/img/post-bg.jpg'
 published: false
 categories: [Spring20, Announcement]
 ---
 
-Hello,
 Competitive Programming ROUND final starts on **Friday, June 5 from 5:30-7:30PM**. [<span style="color: blue">Click here</span>](http://bit.ly/UWBcomp) to get the Zoom link and contest link.
 
 If you are new to the contest, we also have HackerRank tutorials.
