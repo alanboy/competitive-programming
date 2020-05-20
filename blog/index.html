@@ -5,13 +5,6 @@ background: '/img/bg-post.jpg'
 ---
 <a href="ViewByCategories.html">View by Categories </a>
 
-
----
-layout: page
-title: Posts
-background: '/img/bg-post.jpg'
----
-
 {% for post in paginator.posts %}
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
