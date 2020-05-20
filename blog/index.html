@@ -38,7 +38,8 @@ background: '/img/bg-post.jpg'
   {% endif %}
 {% assign categories_list = nil %}
 </ul>
-
+<details>
+<<summary>Categories</<summary>
 {% for category in site.categories %}
   <h3 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h3>
   <ul>
@@ -54,7 +55,7 @@ background: '/img/bg-post.jpg'
     {% assign group = nil %}
   </ul>
 {% endfor %}
-
+</details>
 <hr>
 
 {% endfor %}
