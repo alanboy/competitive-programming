@@ -3,9 +3,7 @@ layout: page
 title: Posts
 background: '/img/bg-post.jpg'
 ---
-{% for category in site.categories %}
-    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
-{% endfor %}
+
 {% for post in paginator.posts %}
 
 <article class="post-preview">
