@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Round 3 Registration is OPEN!!"
-subtitle: "This is the round 3 of this quarter series"
 date: 2020-05-19 7:36:13
 background: '/img/posts/01.jpg'
 publish: false
