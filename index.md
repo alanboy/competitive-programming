@@ -12,3 +12,4 @@ Competitive programming is recognized and supported by several multinational sof
 You can find list of events held this quarter [<span style = "color:blue">here</span>]({% link _posts/2020-05-19-Spring-20-Schedule.md%}). The document would be updated accordingly each quarter with new events. Stay tuned to this page!
 
 ----
+----
