@@ -3,12 +3,12 @@ layout: page
 title: Posts
 background: '/img/bg-post.jpg'
 ---
-<h3><a href="ViewByCategories.html"><mark>View by Categories</mark> </a> </h3>
+<h5><a href="ViewByCategories.html"><mark>View by Categories</mark> </a> </h5>
 
 {% for post in paginator.posts %}
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <h4 class="post-title">{{ post.title }}</h4>
+    <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
     {% else %}
