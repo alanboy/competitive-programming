@@ -4,7 +4,7 @@ email:              uwbacm@gmail.com
 description:        by UWB ACM chapter
 author:             ACM team
 baseurl:            "/competitive-programming"
-
+markdown: kramdown
 
 # Social Profiles
 twitter_username:   SBootstrap
