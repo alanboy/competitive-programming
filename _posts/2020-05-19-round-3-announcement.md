@@ -2,7 +2,7 @@
 layout: post
 title: "Round 3 Registration is OPEN!!"
 date: 2020-05-19 7:36:13
-background: '/img/about-bg.jpg'
+background: '/img/posts/01.jpg'
 published: true
 categories: [Spring20, Announcement]
 ---
