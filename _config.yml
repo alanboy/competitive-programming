@@ -1,15 +1,15 @@
 title:              Competitive Programming @ UW Bothell
 shorttitle:         UWBCP
-email:              uwbacm@gmail.com
+email:              acmuwbothell@gmail.com
 description:        by UWB ACM chapter
 author:             ACM team
 baseurl:            "/competitive-programming"
 markdown: kramdown
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_address:     https://github.com/UWB-ACM
-linkedin_address:   https://www.linkedin.com/in/uwbacm/
+discord_link:       https://discord.gg/2tWhanq
+github_link:        https://github.com/UWB-ACM
+linkedin_link:      https://www.linkedin.com/in/uwbacm/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
