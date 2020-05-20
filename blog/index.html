@@ -40,7 +40,8 @@ background: '/img/bg-post.jpg'
 </ul>
 
 <details>
-<<summary>Categories</<summary>
+
+<summary>Categories</<summary>
 
 {% for category in site.categories %}
   <h3 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h3>
@@ -59,6 +60,7 @@ background: '/img/bg-post.jpg'
 {% endfor %}
 
 </details>
+
 <hr>
 
 {% endfor %}
