@@ -1,4 +1,6 @@
-
+--
+layout: default
+---
 {% for post in site.posts %}
   <li class="post">
     <h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
