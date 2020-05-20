@@ -9,7 +9,7 @@ background: '/img/posts/02.jpg'
 
 **REGISTER** for the events [http://bit.ly/UWBcomp](http://bit.ly/UWBcomp). Other questions, contact us at [acmuwbothell@gmail.com](uwbacm@gmail.com)
 
-![Competitive Programming '20 Spring Schedule](/img/spr20events.png)
+![Competitive Programming '20 Spring Schedule](/competitive-programming/img/spr20events.png)
 
 ## Guest Speakers
 - [<span style="color: blue">Sergio Ligregni</span>](https://ch.linkedin.com/in/ligregni): Software Engineer @Google.
