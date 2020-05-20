@@ -25,8 +25,10 @@ background: '/img/bg-post.jpg'
   </p>
 </article>
 
-{% endfor %}
+<hr>
 
+{% endfor %}
+<h2>Categories</h2>
 <ul>
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
@@ -40,6 +42,22 @@ background: '/img/bg-post.jpg'
   {% endif %}
 {% assign categories_list = nil %}
 </ul>
+
+{% for category in site.categories %}
+  <h3 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h3>
+  <ul>
+    {% assign pages_list = category[1] %}
+    {% for post in pages_list %}
+      {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+      {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+  </ul>
+{% endfor %}
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
@@ -56,4 +74,5 @@ background: '/img/bg-post.jpg'
   {% endif %}
 
 </div>
+
 {% endif %}
