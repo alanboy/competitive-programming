@@ -1,7 +1,3 @@
-
----
-layout: default
----
 <!-- Posts -->
 <{% for post in site.posts %}
 
