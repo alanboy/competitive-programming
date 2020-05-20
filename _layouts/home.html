@@ -34,11 +34,11 @@ layout: default
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <h2 class="post-title">{{ post.title }}</h2>
+            <h4 class="post-title">{{ post.title }}</h4>
             {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            <h5 class="post-subtitle">{{ post.subtitle }}</h5>
             {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+            <h5 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h5>
             {% endif %}
           </a>
           <p class="post-meta">Posted by
@@ -48,7 +48,7 @@ layout: default
             {{ site.author }}
             {% endif %}
             on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
           </p>
         </article>
 
