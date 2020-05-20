@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcement for Round final"
+title: "round final announcement"
 subtitle: "This is the final contest of this quarter series"
 date: 2020-05-19 23:46:13 -0400
 background: '/img/posts/02.jpg'
