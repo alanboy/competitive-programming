@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Competitive Programming
+email:              uwbacm@gmail.com
+description:        Official website for competitive programming event
+author:             ACM team
 baseurl:            "/competitive-programming"
-url:                "https://blackrockdigital.github.io"
+
 
 # Social Profiles
 twitter_username:   SBootstrap
