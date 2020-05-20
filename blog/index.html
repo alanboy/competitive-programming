@@ -20,7 +20,7 @@ background: '/img/bg-post.jpg'
 
 {% for tag in site.categories %}
   <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-  <ul class="post-list">
+  <ul class="post-preview">
     {% assign pages_list = tag[1] %}
     {% for post in pages_list %}
       {% if post.title != null %}
