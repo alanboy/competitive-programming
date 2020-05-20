@@ -2,7 +2,7 @@
 layout: post
 title: "round final announcement"
 subtitle: "Registration info included"
-date: 2020-05-19 7:37:13 -0400
+date: 2020-05-19 7:50:13 
 background: '/img/posts/02.jpg'
 ---
 
