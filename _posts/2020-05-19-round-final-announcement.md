@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Round final: announcement"
-subtitle: "Registration info included"
+title: "Final Contest Registration is OPEN!!"
 date: 2020-05-19 7:50:13
 background: '/img/posts/02.jpg'
 published: false
