@@ -26,8 +26,7 @@ background: '/img/bg-post.jpg'
 </article>
 
 {% endfor %}
-<details>
-<summary>Categories</<summary>
+
 <ul>
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
@@ -41,7 +40,7 @@ background: '/img/bg-post.jpg'
   {% endif %}
 {% assign categories_list = nil %}
 </ul>
-</details>
+
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 
