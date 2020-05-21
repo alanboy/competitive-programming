@@ -8,7 +8,7 @@ categories: [Spring20, EventSchedule]
 
 # Events
 
-**REGISTER** for the events [http://bit.ly/UWBcomp](http://bit.ly/UWBcomp). Other questions, contact us at [acmuwbothell@gmail.com](uwbacm@gmail.com)
+**REGISTER** for the events [http://bit.ly/UWBcomp](http://bit.ly/UWBcomp). Other questions, contact us at [uwbacm@uw.edu](uwbacm@uw.edu)
 
 ![Competitive Programming '20 Spring Schedule](/competitive-programming/img/spr20events.png)
 
