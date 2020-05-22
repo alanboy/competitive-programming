@@ -1,6 +1,6 @@
 title:              Competitive Programming @ UW Bothell
 shorttitle:         UWBCP
-email:              acmuwbothell@gmail.com
+email:              uwbacm@uw.edu
 description:        by UWB ACM chapter
 author:             UWB ACM
 baseurl:            "/competitive-programming"
@@ -17,7 +17,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      "/blog/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate

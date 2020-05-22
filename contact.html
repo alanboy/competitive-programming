@@ -1,12 +1,59 @@
 ---
 layout: page
 title: Contact Us
-description: Have questions? Drop them here!
-background: '/img/bg-contact.jpg'
+description: WE'd love to hear from YOU!
+background: '/img/contact-bg.jpg'
 form: true
 ---
 
-<p>Send us a message by filling  out the form below and We will get back to you as soon as possible!</p>
+<p><b>Connect to social platforms or leave us a message here. We will get back to you ASAP!</b></p>
+
+<ul class="list-inline text-center">
+
+  {% if site.email %}
+  <li class="list-inline-item">
+    <a href="mailto:{{ site.email | encode_email }}">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+  <li class="list-inline-item">
+    <a href="{{ site.discord_link }}">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+
+
+
+  <li class="list-inline-item">
+    <a href="{{site.linkedin_link}}">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+
+
+  <li class="list-inline-item">
+    <a href="{{ site.github_link }}">
+      <span class="fa-stack fa-lg">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+
+</ul>
+
+
 <form name="sentMessage" id="contactForm" novalidate>
   <div class="control-group">
     <div class="form-group floating-label-form-group controls">
