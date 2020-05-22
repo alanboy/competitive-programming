@@ -1,3 +1,24 @@
-theme: jekyll-theme-leap-day
-name: Hank Quinlan, Horrible Cop
+title:              Competitive Programming @ UW Bothell
+shorttitle:         UWBCP
+email:              acmuwbothell@gmail.com
+description:        by UWB ACM chapter
+author:             UWB ACM
+baseurl:            "/competitive-programming"
 markdown: kramdown
+
+# Social Profiles
+discord_link:       https://discord.gg/2tWhanq
+github_link:        https://github.com/UWB-ACM
+linkedin_link:      https://www.linkedin.com/in/uwbacm/
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
